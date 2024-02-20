@@ -2,7 +2,7 @@
 ### OpenClassrooms P2 - Premiers pas sur le langage HTML
 
 ## Présentation
-Ce projet a pour but de vous faire découvrir le langage HTML, très populaire parmi les développeurs web. Il est très guidé et vous accompagnera étape par étape dans l'acquisition des fondamentaux du langage. Utile plus tard pour développer des sites plus ambitieux, mais dans un premier temps, mes premiers pas sur HTML...
+Ce projet a pour but de vous faire découvrir le langage HTML, très populaire parmi les développeurs web. Il est très guidé et accompagne étape par étape dans l'acquisition des fondamentaux du langage. Utile plus tard pour développer des sites plus ambitieux, mais dans un premier temps, mes premiers pas sur HTML...
 
 Mon site est visible sur : [Riding Cities by Jim294](https://jim294.github.io/Riding-Cities.github.io/)
 
